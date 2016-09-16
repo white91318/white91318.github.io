@@ -1,0 +1,103 @@
+.pic{
+	border-radius: 150px;
+	padding-top: 10px;
+	width: 200px;
+}
+.name-div
+{
+	padding-left: 100px; 
+	font-size: 80px;
+	font-family: '微軟正黑體';
+	color: gray;
+}
+.contact{
+	font-size: 35px;
+	font-family: 'Impact';
+	color: gray;
+}
+.header{
+	background: #DDDDDD;
+	color:gray;
+	font-family: 'Impact';
+	padding: 10px;
+}
+.nav-div{
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-size: 25px; 
+	padding-left: 10px;
+	display: inline-flex;
+	padding-left: 10px;
+}
+.contact-div{
+	font-size: 25px; 
+	font-family: 'Lucida Console';
+}
+.header-div{
+	font-size: 30px;
+	padding: 10px;
+}
+.engname{
+	padding-left: 100px;
+	bottom: 0px;
+	font-size:40px;
+	font-family:'Lucida Console';
+	font-weight: bold;
+}
+a,a:link,a:visited{
+	color:gray;
+}
+.edu{
+	padding:5px;
+	margin-top: 5px;
+	background: white;
+	display:flex;
+}
+.about{
+	background: #DDDDDD;
+	padding:5px;
+	margin-top: 5px;	
+	font-size: 50px;
+	font-family: 'Lucida Console';
+	display:flex;
+	color:gray;
+}
+.about-text{
+	color:gray;
+	font-size: 20px;
+	font-family:'微軟正黑體'; 
+	line-height: 35px;
+}
+.skill{
+	background:#666666;
+	padding:5px;
+	margin-top: 5px;	
+	font-size: 50px;
+	font-family: 'Lucida Console';
+	display:flex;
+	color:white;
+
+}
+.experience-text{
+	font-size: 20px;
+	padding:10px;
+}
+.skill-text{
+	color:white;
+	font-size: 20px;
+	font-family:'微軟正黑體'; 
+	line-height: 35px;
+}
+.title{
+	position: absolute;
+	margin: auto;
+	color:	gray;
+	font-size: 50px;
+	font-family: 'Lucida Console';
+}
+.content{
+	color:gray;
+	font-size: 20px;
+	font-family:'微軟正黑體'; 
+	line-height: 35px;
+}
