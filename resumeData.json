@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name":"Phoebe 林亞萱",
+    "occupation":"國立中央大學網學所",
+    "description":"對於網頁開發充滿熱忱，且勇於接受新挑戰！",
+    "image":"me.jpg",
+    "bio":"有著兩年以上的網頁開發經驗，在於前端以及後端的工作都是接觸過，但是仍舊喜愛前端的華麗夢幻感。雖然說在學時期的工作皆是實習性質，但是我相信我的努力程度是被認可的！大家都說我善於溝通以及合作，但有時我更喜歡好好的坐在位置上打 Code :)",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "white91318@gmail.com",
+    "phone": "0983-566481",
+    "address":{
+      "city":"",
+      "state":"隨時可聯絡！",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"國立中央大學",
+        "degree":"資電學院 網路學習科技研究所 碩士班",
+        "graduated":"July 2020",
+        "description":"為中央網學所黃武元所長主持之高互動多媒體實驗室中一員。在實驗室中我與外籍博士學生作為搭檔，在兩年的研究生涯中，不僅技術、思考模式皆大幅進步，英文能力更是我沒想過的躍進。"
+      },
+      {
+        "school":"國立台北護理健康大學",
+        "degree":"資訊管理系",
+        "graduated":"July 2017",
+        "description":"在大學時期是我奠定網頁開發基礎的重要基石。在大學中必修課程出現了PHP，覺得十分有興趣並且選修PHP進階課程！在進階課程中我學到了基本的排版已經當時很紅的 Boostrap，並且在大二開始實習網頁開發，所有的經驗都持續累積，並且努力精進！"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
